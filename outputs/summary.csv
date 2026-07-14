@@ -1,0 +1,2 @@
+admission_rate,rejection_rate,average_waiting_time,average_bed_utilization,peak_queue_length,percent_queue_full,percent_under_pressure,average_length_of_stay,rejection_rate_by_priority
+0.9581005586592178,0.04189944134078212,0.7641243007085502,0.9317614424410541,4,0.0,0.3120665742024965,21.042109896549146,"{'LOW': 0.0, 'MEDIUM': 0.013, 'HIGH': 0.387}"
